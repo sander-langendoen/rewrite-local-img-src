@@ -1,0 +1,19 @@
+{
+  "name": "rewrite-local-img-src",
+  "version": "1.0.3",
+  "description": "rewrites the local img src's to the live domain",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rewrite",
+    "url",
+    "img",
+    "src",
+    "local",
+    "live"
+  ],
+  "author": "Sander Langendoen",
+  "license": "ISC"
+}
