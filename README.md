@@ -3,7 +3,7 @@ Rewrite local img src
 
 Version
 -------
-1.0.3 version
+1.0.4 version
 
 
 General Information
@@ -12,6 +12,8 @@ This package is meant for everyone who wants to rewrite local img srcs to anothe
 It only rewrites the hostname. This is very handy when your local environment doesn't have the images locally available, but only on the live server.
 
 Only works in a browser.
+
+See the [NPM package here](https://www.npmjs.com/package/rewrite-local-img-src)
 
 
 Getting Started
@@ -47,6 +49,9 @@ if (window.location.host.indexOf('vhost') > -1) {
 
 Changelog
 ---------
+
+2019-03-15: 1.0.4 version
+            - added NPM package url to Readme file
 
 2018-08-04: 1.0.3 version
             - updated Readme.md
